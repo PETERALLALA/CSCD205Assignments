@@ -83,7 +83,7 @@ else{
 //GRADING FOR STUDENT2
  if(s2.score<=100 && s2.score>=80){
 
-   s1.grade="A";
+   s2.grade="A";
 }
 if(s2.score<=79 && s2.score>=70){
 
@@ -120,7 +120,7 @@ if(s3.score<=69 && s3.score>=60){
 }
 if(s3.score<=59 && s3.score>=50){
 
-    s1.grade="D";
+    s3.grade="D";
 }
 if(s3.score<=49 && s3.score>=40){
 
